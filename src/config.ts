@@ -6,7 +6,7 @@ export const themeConfig: ThemeConfig = {
     website: 'https://joelsifres.github.io/', // Site domain
     title: 'Joel Sifres', // Site title
     author: 'Joel Sifres', // Author name
-    description: 'My silly little blog', // Site description
+    description: '', // Site description
     language: 'en-US' // Default language
   },
 
@@ -30,7 +30,7 @@ export const themeConfig: ThemeConfig = {
   // POST SETTINGS ///////////////////////////////////////////////////////////////////////////////////////
   post: {
     readingTime: false, // Show reading time in posts
-    toc: false, // Show table of contents (when there is enough page width)
+    toc: true, // Show table of contents (when there is enough page width)
     imageViewer: true, // Enable image viewer
     copyCode: true, // Enable copy button in code blocks
     linkCard: true, // Enable link card
