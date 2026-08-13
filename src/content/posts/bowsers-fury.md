@@ -1,5 +1,5 @@
 ---
-title: "About Bowser's Fury 2/5"
+title: "Bowser's Fury 2/5"
 pubDate: '2023-02-23'
 ---
 

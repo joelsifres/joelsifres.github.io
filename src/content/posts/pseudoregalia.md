@@ -1,6 +1,6 @@
 ---
 title: 'Pseudoregalia 1/5'
-pubDate: '2026-08-15'
+pubDate: '2026-08-13'
 ---
 
 Ignoring the Metroidvania formula -which I do not like in games most of the time and didn't expect to magically work in Pseudoregalia's context specifially- what I found here regarding movement, expressivity and problem solving (not to be confused with puzzle solving) was lackluster. 
