@@ -4,8 +4,8 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://joelsifres.github.io/', // Site domain
-    title: 'Joel Sifres', // Site title
-    author: 'Joel Sifres', // Author name
+    title: 'Kipik', // Site title
+    author: 'Kipik', // Author name
     description: '', // Site description
     language: 'en-US' // Default language
   },

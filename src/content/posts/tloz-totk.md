@@ -1,5 +1,5 @@
 ---
-title: 'About The Legend of Zelda: Tears of the Kingdom'
+title: 'About The Legend of Zelda: Tears of the Kingdom 1/5'
 pubDate: '2023-07-18'
 ---
 
