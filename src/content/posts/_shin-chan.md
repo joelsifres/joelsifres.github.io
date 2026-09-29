@@ -1,9 +1,10 @@
 ---
 title: 'Crayon Shin-Chan'
-pubDate: '2026-07-12'
+pubDate: '2026-09-31'
 ---
 
-Over the years I've seen the Crayon Shin-Chan movies gain popularity thanks to their more focused nature, creativity and sheer fun. Pretty much all of them are quite simple good vs evil stories where good always wins and what changes is the context and themes, and while I like most of them quite a lot I think Crayon Shin-Chan as a series is not talked about enough.
+Over the years I've seen the Crayon Shin-Chan movies gain popularity thanks to their more focused nature, creativity and sheer fun. Pretty much all of them are quite simple good vs evil stories where good always wins and what changes is the context and themes, and while I like most of them quite a lot I think Crayon Shin-Chan as a series is not talked about enough. 
 
-While most people would talk about the comedy, irreverent and don't find the comedy particularily good
+While the movies have a defined plot to follow, Crayon Shin-Chan is quite literally frozen in time. Instead, it focuses on portraiting the life of the Noharas, an ordinary working class family with an extraordinary kid, as plainly and honestly as possible, a slice of life in its purest form. What's extraodinary about 5 years old Shinnosuke (most of the times refered to as Shin-Chan, giving the series its name) isn't a special ability of his or anything remotely close to that, but being extremely countercultural in a country such as Japan, known for its strong and strict sociocultural codes that value correctness and politeness above everything else. Shin-Chan's effrontery and political incorrectness not only lead to most of the comedy sketches but effortlessly exposes how silly and constraining most of that really is. His family, a housewife and a salaryman, lives in a small house -32 years of mortgage remaining- in Kasukabe. Misae, the wife, does what is expected of her: she cooks, cleans, takes care of the kid, does the groceries... while Hiroshi, her husband, works his ass off in a job that barely brings enough money to live. First to leave and last to arrive, he works in a normal company, sometimes  waiting for a promotion that never comes. They rarely go on vacation since it's both expensive and not socially accepted.
+
 Mientras que la mayoria de gente seguramente destacaria la comedia, irreverente y politicamente incorrecta (especialmente para los estandares socioculturales japoneses, que seran importantes mas adelante), como elemento caracteristico de la serie, a mi, mas alla de momentos puntuales, me parece que peca de basica y repetitiva. Donde esta la chicha es en lo cruda
