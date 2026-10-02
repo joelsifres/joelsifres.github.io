@@ -3,7 +3,7 @@ title: 'Vholume 4/5'
 pubDate: '2026-09-30'
 ---
 
-A parkour time trial game in a brutalist world, as a premise, is hard to beat. Opposite to Mirror's Edge in almost every way, its approach to parkour, one based on Counter Strike's bunny hopping, is a momentum-based platformer with no ties to realism whatsoever, a strictly gamey approach to system and level design. 
+A time trial parkour game in a brutalist world, as a premise, is hard to beat. Opposite to Mirror's Edge in almost every way, its approach to parkour, one based on Counter Strike's bunny hopping, is a momentum-based platformer with no ties to realism whatsoever, a strictly gamey approach to system and level design. 
 
 What starts as a game where you just run forward, with occasional crouching, climbing, wall jumping and wall riding, rapidly fades away: the less time you are in the ground, the faster you go. And suddenly you're in the flow. Bunny hopping comes in, you discover coyote jumping, bounce off every wall and now that place which was barely out of reach is easily accessible. But too much momentum and you'll just fly past the platforms you need to step on and jump from in order to keep going, which creates an interesting back and forth that prevents the game from feeling unidimensional. 
 
