@@ -1,6 +1,6 @@
 ---
 title: 'Vholume 4/5'
-pubDate: '2026-09-31'
+pubDate: '2026-09-30'
 ---
 
 A parkour, time trial game in a brutalist world, as a premise, is hard to beat. Opposite to Mirror's Edge in almost every way, its approach to parkour, one based on Counter Strike's bunny hopping, is a momentum-based platformer with no ties to realism whatsoever, a strictly gamey approach to system and level design. 
